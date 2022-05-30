@@ -12,7 +12,8 @@
     background-position: 50% 50%;
     background-size: cover;
 
-    display: flex;
-    align-items: center;
+    display: grid;
+    align-content: center;
+    color: $color-light;
 
 }
